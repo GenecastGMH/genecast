@@ -1,2 +1,2 @@
 # genecast
-genecast tools
+QC_Tools
