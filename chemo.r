@@ -33,7 +33,7 @@ if (!file.exists(result_dir)){
 sample_list <- read.table(arg[2],sep = "\t",header = F,stringsAsFactors = F) %>%
   filter(V3=="blood")
 
-chemical_rs_data <- fread("/work/user/xiay/medicion/tmp/chemical_rs_site.txt",sep = "\t",header = F,fill = T)
+chemical_rs_data <- fread("/work/user/gemh/Tools/mytools/QC_tools/chemical_rs_site.txt",sep = "\t",header = F,fill = T)
 
 #=================================
 tryCatch({
