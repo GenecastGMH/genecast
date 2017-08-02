@@ -1,0 +1,4 @@
+P3378	1	blood	blood_1a
+P3378	1	plasma	plasma_1a
+P3378	1	tumor	tumor_1a
+P3378	1	tumor2	tumor2_1a

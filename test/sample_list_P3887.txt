@@ -1,0 +1,3 @@
+P3887	1	blood	blood_1a
+P3887	1	tumor	tumor_1a
+P3887	1	plasma	plasma_1a

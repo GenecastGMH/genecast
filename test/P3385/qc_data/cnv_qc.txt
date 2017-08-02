@@ -1,0 +1,8 @@
+patient_id	submission_time	chrom	start	end	gene	log2_ratio	tissue	copy_number
+P3385	1	chr6			DDR1	-0.41959	plasma	1.49527413072801
+P3385	1	chr1			FAF1	-0.21086	plasma	1.72804405710568
+P3385	1	chr6			HLA-A	-0.41959	plasma	1.49527413072801
+P3385	1	chr6			HLA-DRB1	-0.62531	plasma	1.29656092537631
+P3385	1	chrX			Intergenic	-0.03167	plasma	1.95657443975192
+P3385	1	chr6			MIR6891	-0.62531	plasma	1.29656092537631
+P3385	1	chr16			PKD1	0.20588	plasma	2.30677932962945

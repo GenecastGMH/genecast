@@ -1,0 +1,2 @@
+P3385	1	plasma	plasma_1a
+P3385	1	blood	blood_1a
